@@ -26,5 +26,5 @@ Create a pull request.
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Contact
-For further inquiries or feedback, please contact [Your Name] at [rayanchowdhury07@gmail.com].
+For further inquiries or feedback, please contact Meherab Riyan Chowdhury at rayanchowdhury07@gmail.com.
 
